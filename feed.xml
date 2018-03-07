@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>cuibonobo</title>
-    <link href="http://cuibonobo.com/feed.xml" rel="self" />
-    <link href="http://cuibonobo.com" />
-    <updated>2018-03-07T13:48:24-05:00</updated>
+    <link href="https://cuibonobo.com/feed.xml" rel="self" />
+    <link href="https://cuibonobo.com" />
+    <updated>2018-03-07T17:20:18-05:00</updated>
     <author>
         <name>Jen Garcia</name>
     </author>
-    <id>http://cuibonobo.com</id>
+    <id>https://cuibonobo.com</id>
 
     <entry>
         <title>Drawing from the Public Domain</title>
         <author>
             <name>Jen Garcia</name>
         </author>
-        <link href="http://cuibonobo.com/drawing-from-the-public-domain/"/>
-        <id>http://cuibonobo.com/drawing-from-the-public-domain/</id>
+        <link href="https://cuibonobo.com/drawing-from-the-public-domain/"/>
+        <id>https://cuibonobo.com/drawing-from-the-public-domain/</id>
             <category term="resources"/>
             <category term="public domain"/>
             <category term="copyright"/>
@@ -24,7 +24,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://cuibonobo.com/media/posts/2/drawing-from-the-public-domain.gif" alt="" />
+                    <img src="https://cuibonobo.com/media/posts/2/drawing-from-the-public-domain.gif" alt="" />
                 <p>I’m a staunch advocate for the public domain. It is a deep well of inspiration and influence for most of the cultural objects that humanity produces. Works in the public domain can be consumed, copied, remixed, and performed by anyone, for any purpose, without restriction.</p>
 <p>For most of humanity’s history, works needed to be registered in order to be copyrighted, and even then, a copyright would only last a short time. Copyrights grant authors exclusive rights over copies, licenses, and derivatives of their work — since they create scarcity, they also create wealth and thus they can be valuable properties.</p>
 <p>In the 20th century, copyright terms were <a href="https://en.wikipedia.org/wiki/Copyright_law_of_the_United_States#Duration_of_copyright">lengthened considerably</a> in the United States and works were deemed copyrighted as soon as they were “fixed in any tangible medium” (<a href="https://www.law.cornell.edu/uscode/text/17/102">17 U.S.C. § 102</a>). In other words, works no longer needed to be registered to enjoy copyright protections.</p>
@@ -52,8 +52,8 @@
         <author>
             <name>Jen Garcia</name>
         </author>
-        <link href="http://cuibonobo.com/the-artist-formerly-known-as-jen-montes/"/>
-        <id>http://cuibonobo.com/the-artist-formerly-known-as-jen-montes/</id>
+        <link href="https://cuibonobo.com/the-artist-formerly-known-as-jen-montes/"/>
+        <id>https://cuibonobo.com/the-artist-formerly-known-as-jen-montes/</id>
             <category term="names"/>
             <category term="beginnings"/>
 
